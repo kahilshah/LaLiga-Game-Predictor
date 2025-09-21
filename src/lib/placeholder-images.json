@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "logo",
+      "description": "La Liga Forecaster logo",
+      "imageUrl": "https://picsum.photos/seed/laliga-logo/200/200",
+      "imageHint": "football logo"
+    }
+  ]
+}
