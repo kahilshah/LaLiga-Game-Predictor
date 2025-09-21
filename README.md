@@ -1,0 +1,1 @@
+A full-stack application website that allows the user to input a la liga game and designate who is home and who is away and the output will be the predicted result. This prediction is based on a model that was trained on a dataset of la liga results since 2019.
